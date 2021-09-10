@@ -1,0 +1,23 @@
+Highlights & Device Specific Changes: ROM Changes
+Build type: OFFICIAL
+Device: RMX2020
+Device maintainer: sarthakroy2002
+Android Version: 11
+
+==== 06/09/2021 =====
+ - Refactor Settings app
+ - Fix MTKOSP Version and Lineage API Version (They where shown as Unknown)
+ - Add dual VoLTE icon
+ - Add some optimizations
+ - Whitelist perl
+ - Add Primer UI color scheme
+ - Import round and roundedrect icon shapes
+ - Change few default material grey colors to white on light theme
+ - Set default accent to pixel blue
+ - Default to full gesture navigation
+ - Use rounded corners in system UI
+ - Shorten overly long Wi-Fi calling operator names
+ - Fully enable system round icons
+ - Add back SELinux info
+ - Use preference category style from Pixel Settings
+ - Fix NetworkTraffic / NetworkMonitor icon
