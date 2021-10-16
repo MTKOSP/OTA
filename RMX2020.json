@@ -1,12 +1,12 @@
 {
   "response": [
    {
-    "datetime": "1631269657",
-    "filename": "MTKOSP-1.0-20210910-1227-OFFICIAL-RMX2020.zip",
-    "id": "c7ebd34e2d3c1cc646293d04d6c9dd74",
+    "datetime": "1634317849",
+    "filename": "MTKOSP-1.0-The_Awaken-20211015-1713-OFFICIAL-RMX2020.zip",
+    "id": "d118fe1ac500c4641e497a6c457df088",
     "romtype": "OFFICIAL",
-    "size": "690900332",
-    "url": "https://github.com/jmpfbmx/updater_testing/releases/download/aaaa/MTKOSP-1.0-20210910-1227-OFFICIAL-RMX2020.zip",
+    "size": "6925055",
+    "url": "https://downloads.sourceforge.net/project/mtkosp/1.0/RMX2020/MTKOSP-1.0-The_Awaken-20211015-1713-OFFICIAL-RMX2020.zip?ts=gAAAAABhapx6Ofj9EbbuycDd2AWaxiIZP5d4d3W0LosnXlEbdpQLg0-XNlGl6YslziXZxBg2pDqoH9FTTl8uX9ViTNtsTJPUTg%3D%3D&use_mirror=master&r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fmtkosp%2Ffiles%2F1.0%2FRMX2020%2F",
     "version": "1.0"
    }
   ]
